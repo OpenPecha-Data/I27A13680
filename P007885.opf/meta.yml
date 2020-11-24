@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W20101
   title: བྱང་བདུད་ཀུ་ར་འདུལ་བའི་རྟོགས་བརྗོད
-  volume: ''
+  volume:
+    b71e03c02bfc4deeb651ce9602841b60:
+      image_group_id: I4246
+      title: ''
+      volume_number: 1
+      total_pages: 270
   author: ''
+ebook_metadata:
+  title: བྱང་བདུད་ཀུ་ར་འདུལ་བའི་རྟོགས་བརྗོད
+  author: ''
+  sku: P007885
+  cover: cover.jpg
+  layers:
+  - pagination
